@@ -9,6 +9,6 @@ shaman-004/shaman-004 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaman-004)](https://github.com/shaman-004/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)(https://github-profile-trophy.vercel.app/?username=shaman-004&rank=A)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)(https://github-profile-trophy.vercel.app/?username=shaman-004&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=shaman-004&rank=A)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=shaman-004&row=2&column=3)
 
