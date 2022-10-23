@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaman-004)](https://github.com/shaman-004/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=shaman-004&rank=A)
 
-
+Connect with me:
+www.linkedin.com/in/shaman-m  
 
