@@ -8,6 +8,6 @@
 shaman-004/shaman-004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(https://github.com/shaman-004/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/shaman-004/github-profile-trophy)
 https://github-profile-trophy.vercel.app/?username=shaman-004&margin-w=15
 https://github-profile-trophy.vercel.app/?username=shaman-004&column=3&margin-w=15&margin-h=15
