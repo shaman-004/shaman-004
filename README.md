@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaman-004)](https://github.com/shaman-004/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=shaman-004&rank=A)
-
+![Employee data](http://![bmc_qr](https://user-images.githubusercontent.com/93532515/199295836-68aa8b47-c487-408f-b995-fb3f06a575c1.png)
+ "buy me coffee")
 
 
 
