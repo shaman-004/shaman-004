@@ -44,4 +44,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p>
