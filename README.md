@@ -50,7 +50,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Lakshmikanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.gif" target="_blank">
           <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="snake gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Lakshmikanth-472/Lakshmikanth-472/raw/output/github-contribution-grid-snake.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="198"></canvas></span>
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="700" height="198"></canvas></span>
         </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play snake gif"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
