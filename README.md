@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi👋, I'm Shaman M</h1>
  <h3 align="center">A passionate frontend Web developer from India and UX UI Designer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=">
+<img align="center" alt="Coding" width="400" src="https://media.istockphoto.com/id/1241710727/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=-GRtSIZlLuusOA2TjOwamNTx_16vB1-m94sFfv2LYiw=">
 
 
 
