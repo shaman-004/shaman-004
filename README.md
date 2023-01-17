@@ -45,3 +45,4 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p>
+<img src="https://github.com/shaman-004/shaman-004/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
