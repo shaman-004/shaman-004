@@ -2,7 +2,7 @@
 
 <center ><h1>Hi👋, I'm Shaman M</h1></center>
  <center><h3 >A passionate frontend Web developer from India and UX UI Designer.</h3></center>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_27490843.htm">
 
 <h3 align="center">A passionate frontend Web developer from India and UX UI Designer.</h3>
 
