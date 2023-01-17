@@ -1,6 +1,4 @@
-                                                               👋 Hi, I’m @Shaman-004
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://shaman-004.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://shaman-004.io)
 
 <h1 align="center">Hi 👋, I'm Shaman M</h1>
 <h3 align="center">A passionate frontend Web developer from India and UX UI Designer.</h3>
@@ -180,8 +178,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaman-004&show_icons=true&locale=en" alt="shaman-004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p>
-
-
-
-
-
