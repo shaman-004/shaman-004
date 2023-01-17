@@ -43,8 +43,9 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shaman004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shaman004" /></a></p><br><br>
 
 
-<h1>My Contribution:</h1>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p>
+<h3>My Contribution:</h3>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p><br><br>
+
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/Lakshmikanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.gif" data-target="animated-image.originalLink"><img src="https://github.com/Lakshmikanth-472/Lakshmikanth-472/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Lakshmikanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.gif" target="_blank">
