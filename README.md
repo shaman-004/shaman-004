@@ -71,6 +71,8 @@
           </a>
         </span>
       </span></animated-image>
-<img src="https://github.com/shaman-004/shaman-004/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/shaman-004/shaman-004/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
 
 [![An image of @sham__004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sham__004)](https://holopin.io/@sham__004)
+
+[![An image of @shaman004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaman004)](https://holopin.io/@shaman004)
