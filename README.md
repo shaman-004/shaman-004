@@ -4,7 +4,6 @@
  <h3 align="center">A passionate frontend Web developer from India and UX UI Designer.</h3>
 <center><img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></center>
 
-<img align="right" src="https://camo.githubusercontent.com/f361f9c5a2c35323a7730f95d58c84aa3dca63bfabdd2499d624420b825abb89/68747470733a2f2f6170692e6461696c792e6465762f64657663617264732f34616363613764643764393334663934623062343735336631326334343439342e706e673f723d6e6d7a" width="250" alt="Shaman Dev Card" data-canonical-src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaman-004&label=Profile%20views&color=0e75b6&style=flat" alt="shaman-004" /> </p>
 
