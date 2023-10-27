@@ -33,7 +33,7 @@
 <a href="https://www.codechef.com/users/shamanbusiness" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shamanbusiness" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shaman__2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaman__2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shamancoder14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shamancoder14" height="30" width="40" /></a>
-<a href="https://peerlist.io/sxmxn" target="_blank"><img align="center" src="https://peerlist.io/scroll" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +44,10 @@
 
 
 <h3>My Contribution:</h3>
+<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&" alt="shaman-004" /></p><br><br>
+<img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="shaman-004" data-canonical-src="https://github-readme-stats.vercel.app/api?username=shaman-004&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
 
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/shaman-004/shaman-004/blob/output/github-contribution-grid-snake.gif" data-target="animated-image.originalLink"><img src="https://github.com/shaman-004/shaman-004/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
