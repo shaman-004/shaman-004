@@ -45,10 +45,10 @@
 
 <h3>My Contribution:</h3>
 <br>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&;theme=gotham" alt="shaman-004" style="background-color:dark" /></p>
-<br><br>
-
+<br>
+![Shaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaman-004&show_icons=true&theme=merko)
+<br>
 
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/shaman-004/shaman-004/blob/output/github-contribution-grid-snake.gif" data-target="animated-image.originalLink"><img src="https://github.com/shaman-004/shaman-004/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
