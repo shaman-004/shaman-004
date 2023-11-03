@@ -78,4 +78,4 @@
 
 [![An image of @sham__004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sham__004)](https://holopin.io/@sham__004)
 
-[![An image of @shaman004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaman004)](https://holopin.io/@shaman004)
+
