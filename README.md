@@ -44,7 +44,7 @@
 
 <h3>My Contribution:</h3>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&;theme=gotham" alt="shaman-004" style="background-color:dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaman-004&;theme=gotham" alt="shaman-004" style="background-color:dark" /></p>
 <br>
 
 
