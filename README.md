@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio,Projects<br><br>🌱 I’m currently learning Backend,ML<br><br>👯 I’m looking to collaborate on @Linkedin<br>🤝 I’m looking for help with Kotlin , Nodejs<br><br>💬 Ask me about Nextjs,Tailwindcss
+🔭 I’m currently working on Portfolio,Projects<br><br>🌱 I’m currently learning Backend,ML<br><br>👯 I’m looking to collaborate on @Linkedin<br><br>🤝 I’m looking for help with Kotlin , Nodejs<br><br>💬 Ask me about Nextjs,Tailwindcss
 
 
 ## 🌐 Socials:
