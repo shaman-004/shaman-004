@@ -19,9 +19,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=shaman-004&color=blueviolet&style=plastic&label=Profile+Views)](https://github.com/shaman-004)
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=shaman-004&label=Profile%200Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
 
