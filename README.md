@@ -20,7 +20,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=shaman-004&label=Profile%200Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+  [![Profile Views](https://visitcount.itsvg.in/api?id=shaman-004&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 </p>
 
 
