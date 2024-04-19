@@ -20,7 +20,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p align="center">
-  [![Profile Views](https://profile-counter.glitch.me/shaman-004/count.svg)](https://github.com/shaman-004)
+  [![Profile Views](https://komarev.com/ghpvc/?username=shaman-004&color=blueviolet&style=plastic&label=Profile+Views)](https://github.com/shaman-004)
 </p>
 
 
