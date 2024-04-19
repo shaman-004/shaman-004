@@ -20,8 +20,9 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p align="center">
-  [![Profile Views](https://visitcount.itsvg.in/api?id=shaman-004&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+  [![Profile Views](https://profile-counter.glitch.me/shaman-004/count.svg)](https://github.com/shaman-004)
 </p>
+
 
 
 ## 💰 You can help me by Donating
